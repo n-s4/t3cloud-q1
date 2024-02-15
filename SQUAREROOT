@@ -1,0 +1,8 @@
+const readline = require("readline-sync");
+let num = Number( readline.question("Enter a number to know if it has a square root: " ));
+if (isNaN(num)){
+ console.log("Worng input, enter a valid number ")
+} else {var ans = Math.sqrt(num)
+console.log (ans)
+}
+
