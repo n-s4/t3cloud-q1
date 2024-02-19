@@ -12,7 +12,7 @@ var myAnything = [4, false, "Cat", 0.423, ["Tom", 9]]
 // console.log(myAnything[4][1])
 var namesOfAttendees = ["Sangay", "Nayan", "Pema", "Sherab", "Passang", "Sonam", "Karma", "Chakar", "Tobdhen"]
 
-// for (var i = 0; i < namesOfAttendees.length; i += 1) {
+// v
 // 	var studentName = namesOfAttendees[i];
 // 	console.log(studentName + " is in class today.")
 // }
