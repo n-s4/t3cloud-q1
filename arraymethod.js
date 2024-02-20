@@ -1,4 +1,4 @@
-/ function addSomething(a, b) {
+// / function addSomething(a, b) {
     // 	return a + b;
     // }
     
